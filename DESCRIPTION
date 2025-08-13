@@ -1,13 +1,11 @@
 Package: robackdata
-Title: What the Package Does (One Line, Title Case)
+Title: Data from "Beyond Multiple Linear Regression" by Roback and Legler
 Version: 0.0.0.9000
 LazyData: true
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Derek", "Friend", , "dafriend.R@gmail.com", role = c("aut", "cre"))
+Description: Contains all of the data used in "Beyond Multiple Linear Regression" by Roback and Legler
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
